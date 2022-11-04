@@ -4,7 +4,7 @@ This folder concludes my work suring the Honors Machine Learning class at NYU.<b
 
 <strong>[Homework 1](./homework_1)</strong>: Probability and Statistics (deriviation of conditional probability, independency); KNN regression and classification (analysis of overfitting, hyperparameter learning, train-test error); K-Means clustering (elbow plot, cluster-labeled sactter plot)<br><br>
 
-<strong>[Homework 2](./homework_2)</strong>: Linear Regression (analysis of unbiased estimator of coefficient, gradient descent & learning rate); Ridge Regression (empirical risk minimization); Feature Correlation (multicollinearity, Lasso objective function)<br><br>
+<strong>[Homework 2](./homework_2)</strong>: Linear Regression (analysis of unbiased estimator of coefficient, gradient descent & learning rate); Ridge Regression (empirical risk minimization); Feature Correlation (multicollinearity, Lasso objective function); Pickle (model serialization)<br><br>
 
 <strong>[Homework 3](./homework_3)</strong>: Probabilistic linear classifiers (discriminative linear classifier: logistic regression; generative linear classifier: Linear Discriminant Analysis/LDA); Naive Bayes (spam email identification: pre-processing text data, bag-of-words, maximum likelihood estimator) <br><br>
 <strong>[Final Project](./Final_Project)</strong>: Emotion Recognition with Deep Learning -- Modeling and Structural Analysis
